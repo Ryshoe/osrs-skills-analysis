@@ -7,5 +7,4 @@ dependencies:
   - ipywidgets
   - numpy
   - pandas
-  - seaborn
   - matplotlib
